@@ -301,6 +301,7 @@
             <li><a href="#features">Fitur</a></li>
             <li><a href="#how">Cara Kerja</a></li>
             <li><a href="#contact">Kontak</a></li>
+            <li><a href="{{ 'login' }}">Login</a></li>
         </ul>
     </nav>
 
@@ -309,7 +310,7 @@
             <h1>Solusi Helpdesk Modern untuk Layanan Internet Anda</h1>
             <p>Kelola gangguan jaringan dengan mudah, cepat, dan efisien menggunakan sistem ticket berbasis AI</p>
             <div class="cta-buttons">
-                <a href="#" class="btn btn-primary">Mulai Sekarang</a>
+                <a href="#" class="btn btn-primary">Buat Tiket</a>
                 <a href="#features" class="btn btn-secondary">Pelajari Lebih Lanjut</a>
             </div>
         </div>
